@@ -1,0 +1,63 @@
+.content {
+  margin:0 auto;
+}
+
+.block_input{
+  margin-right: 0px;
+}
+
+.block_input th {
+  width: 180px;
+  height: 7rem;
+
+  text-align: right;
+}
+
+.block_input td {
+  width: 480px;
+  height: 7rem;
+
+  padding-left: 10px;
+}
+
+#contact_name{
+  width: 480px;
+}
+
+#contact_email{
+  width: 480px;
+}
+
+#contact_content{
+  width: 480px;
+  height: 7rem;
+}
+
+.block_submit{
+  width: 660px;
+  margin-top: 10px;
+}
+
+input#btn_submit{
+  width: 50px;
+  margin: 0px 290px;
+  /*   margin: 0px auto;   */
+
+  color: #ffffff;
+  background-color: #87CEEB;
+  position: absolute;
+}
+
+
+input#btn_submit:hover{
+  color: #ffffff;
+  background-color: #87CEEB;
+  opacity: 0.5;
+}
+
+.logo_image{
+  display: inline-block;
+  width: 0.1rem;
+  margin-top: 10rem;
+  margin-left: 10rem;
+}
